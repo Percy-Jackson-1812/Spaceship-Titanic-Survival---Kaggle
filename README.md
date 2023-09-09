@@ -8,6 +8,6 @@
 <b>Destination</b> - The planet the passenger will be debarking to.<br>
 <b>Age</b> - The age of the passenger.<br>
 <b>VIP</b> - Whether the passenger has paid for special VIP service during the voyage.<br>
-<b>RoomService, FoodCourt, ShoppingMall, Spa, VRDeck<br> - Amount the passenger has billed at each of the Spaceship Titanic's many luxury amenities.<br>
+<b>RoomService, FoodCourt, ShoppingMall, Spa, VRDeck</b> - Amount the passenger has billed at each of the Spaceship Titanic's many luxury amenities.<br>
 <b>Name</b> - The first and last names of the passenger.<br>
 Transported - Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict.
